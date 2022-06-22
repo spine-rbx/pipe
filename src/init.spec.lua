@@ -1,5 +1,3 @@
---# selene: allow(undefined_variable)
-
 return function()
 	local Pipe = require(script.Parent)
 
